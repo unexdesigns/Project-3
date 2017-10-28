@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Project-3</string>
+    <string name="youtube">YOUTUBE</string>
+    <string name="_15min">15MIN</string>
+    <string name="delfi">DELFI</string>
+    <string name="trinti_duomenis">Trinti duomenis</string>
+    <string name="current_url">CURRENT_URL</string>
 </resources>
